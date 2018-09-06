@@ -1,0 +1,13 @@
+{
+    "name": "DB/Laravel",
+    "description": "db",
+    "authors": [
+        {
+            "name": "Mahmoud Abo Hussien",
+            "email": "mahmoud_abo_hussien@codersea.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "*"
+    }
+}
